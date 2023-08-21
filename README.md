@@ -1,7 +1,7 @@
 ### Hi there 👋
 ![GithubStats](https://github-readme-stats.gopla.vercel.app/api?username=farhanfr&show_icons=true&theme=random)
 
-- ⚡ Fun fact: Mobile Dev & Genshin Impact Player 
+- ⚡ Fun fact: Seorang pengembang software yang lagi bersemangat 
 
 <!--
 **farhanfr/farhanfr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
